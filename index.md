@@ -1,6 +1,11 @@
 # Welcome to Technolink Docs
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Бърз едит
+
+- това е един много бърз едит
+- това е втори много бърз едит
+
 
 ## Commands
 
